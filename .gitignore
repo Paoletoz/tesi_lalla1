@@ -1,0 +1,11 @@
+# --- PDF esclusi su richiesta (figure vettoriali rigenerabili) ---
+*.pdf
+
+# --- Cruft di sistema / impostazioni locali dello strumento ---
+.DS_Store
+.claude/settings.local.json
+
+# --- Artefatti R (eventuali) ---
+.Rhistory
+.RData
+.Rproj.user/

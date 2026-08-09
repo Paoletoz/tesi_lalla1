@@ -1,0 +1,27 @@
+ordine,id,parametro,unita,categoria,col_pre,col_post
+1,peso,Peso,kg,Fisico,6,7
+2,bcs,BCS Fat %,%,Fisico,8,9
+3,rbc,RBC,10^6/µl,Ematologico,34,35
+4,hgb,HGB,g/dl,Ematologico,36,37
+5,hct,HCT,%,Ematologico,38,39
+6,mchc,MCHC,g/dl,Ematologico,40,41
+7,rdw,RDW,%,Ematologico,42,43
+8,wbc,WBC,10^3/µl,Ematologico,44,45
+9,neu_pct,Neutrofili %,%,Ematologico,46,47
+10,lym_pct,Linfociti %,%,Ematologico,48,49
+11,mon_pct,Monociti %,%,Ematologico,50,51
+12,eos_pct,Eosinofili %,%,Ematologico,52,53
+13,neu_abs,Neutrofili assoluti,10^3/µl,Ematologico,54,55
+14,lym_abs,Linfociti assoluti,10^3/µl,Ematologico,56,57
+15,mon_abs,Monociti assoluti,10^3/µl,Ematologico,58,59
+16,eos_abs,Eosinofili assoluti,10^3/µl,Ematologico,60,61
+17,plt,PLT,10^3/µl,Ematologico,62,63
+18,mpv,MPV,fL,Ematologico,64,65
+19,pct,PCT,%,Ematologico,66,67
+20,got_ast,GOT-AST,U/L,Biochimico,68,69
+21,gpt_alt,GPT-ALT,U/L,Biochimico,70,71
+22,bil_tot,Bilirubina totale,mg/dl,Biochimico,72,73
+23,bun,BUN,mg/dl,Biochimico,74,75
+24,creat,Creatinina,mg/dl,Biochimico,76,77
+25,droms,dRoms,U.CARR.,Stress ossidativo,80,81
+26,oxy,Oxy,µmol HClO/ml,Stress ossidativo,82,83
